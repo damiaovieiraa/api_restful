@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "O Poderoso Chefão",
+        "description": "Em 1945, Don Corleone (Marlon Brando) é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael (Al Pacino), um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos."
+    },
+    {
+        "id": 2,
+        "title": "A Lista de Schindler",
+        "description": "A história real ronda em torno do alemão Oskar Schindler, que viu na mão-de-obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso transformou-se em um dos maiores casos de amor à vida da História, quando este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus, em plena luta contra o extermínio alemão."
+    },
+    {
+        "id": 3,
+        "title": "Toy Story 3",
+        "description": "Nesta terceira animação da série, Andy vai para a faculdade e seus antigos brinquedos são doados a uma creche. Apenas Woody ficará com seu dono. Woody, no entanto, não abandona seus amigos e precisará, juntamente com Buzz e cia., se adaptar ao novo lugar e aos novos “donos” enquanto tentam se manter juntos."
+    },
+    {
+        "id": 4,
+        "title": "Luzes da Cidade",
+        "description": "A paixão de um vagabundo por uma pobre florista cega, que acredita que ele é um milionário, o motiva a tentar conseguir o dinheiro necessário da cirurgia para restaurar sua visão."
+    },
+    {
+        "id": 5,
+        "title": "Interestelar",
+        "description": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar."
+    },
+    {
+        "id": 6,
+        "title": "Clube da Luta",
+        "description": "Um explosivo sofredor de insônia (Edward Norton) e um carismático vendedor de sabonetes (Brad Pitt) canalizam agressão primitiva masculina transformando-a em uma nova e chocante forma de terapia. Seu conceito pega, e formam-se diversos clubes da luta clandestinos em cada cidade, até que a sensual e excêntrica Marla (Helena Bonham Carter) entra na jogada e desencadeia uma situação fora de controle rumo ao caos."
+    },
+    {
+        "id": 7,
+        "title": "O Pianista",
+        "description": "O pianista polonês Wladyslaw Szpilman (Adrien Brody) interpretava peças clássicas em uma rádio de Varsóvia quando as primeiras bombas caíram sobre a cidade, em 1939. Com a invasão alemã e o início da 2ª Guerra Mundial, começaram também restrições aos judeus poloneses pelos nazistas. Inspirado nas memórias do pianista, o filme mostra o surgimento do Gueto de Varsóvia, quando os alemães construíram muros para encerrar os judeus em algumas áreas, e acompanha a perseguição que levou à captura e envio da família de Szpilman para os campos de concentração. Wladyslaw é o único que consegue fugir e é obrigado a se refugiar em prédios abandonados espalhados pela cidade, até que o pesadelo da guerra acabe."
+    }
+]
